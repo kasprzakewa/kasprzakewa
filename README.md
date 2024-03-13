@@ -13,7 +13,7 @@ I am a second-year student of Algorithmic Computer Science at the Wrocław Unive
 
 <br>
 <br>
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasprzakewa&layout=compact&show_icons=true&theme=cobalt" alt="Top Languages">
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasprzakewa&layout=compact&show_icons=true&theme=tokyonight" alt="Top Languages">
 
 <h3 align="left">Fun Fact ☂️</h3>
 <p align="left" width="350">
