@@ -5,14 +5,21 @@
 I am a second-year student of Algorithmic Computer Science at the Wrocław University of Science and Technology. My interests span across various fields, including astronomy, programming, and mathematics - particularly the kind that blows my mind.
 <br>
 <br>
-> "_I believe we did._"
->
->         ~ J. Robert Oppenheimer
+<br>
+<blockquote style="text-align: right;">
+    <p><i>"I believe we did."</i></p>
+    <footer>~ J. Robert Oppenheimer</footer>
+</blockquote>
+
 <br>
 <br>
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasprzakewa&layout=compact&show_icons=true&theme=radical" alt="Top Languages">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasprzakewa&layout=compact&show_icons=true&theme=radical)](https://github.com/kasprzakewa/github-readme-stats)
-
+<h3 align="left">Fun Fact ☂️</h3>
+<p align="left" width="350">
+ After 12 years of music school, I've decided to switch things up. 
+ Now instead of playing on the decks of concert halls, I'm debugging syntax errors!
+</p>
 <br>
 <h3 align="left">Contact me 🪁</h3>
 
