@@ -2,7 +2,7 @@
 
 <img align="right" width="350" src="https://github.com/kasprzakewa/kasprzakewa/assets/153777003/314661f3-d8a8-4e6d-a907-90cbca699631" />
 
-I am a second-year student of Algorithmic Computer Science at the Wrocław University of Science and Technology. My interests span across various fields, including astronomy, programming, and mathematics - particularly the kind that challenges our perception of reality. I have a keen interest in logic mysteries, and I find the intricacies of probability fascinating. Above all, I am intrigued by artificial intelligence and its potential to revolutionize our world. I’m always on the lookout for new knowledge and experiences in these areas.
+I am a second-year student of Algorithmic Computer Science at the Wrocław University of Science and Technology. My interests span across various fields, including astronomy, programming, and mathematics - particularly the kind that blows my mind.
 <br>
 <br>
 <br>
