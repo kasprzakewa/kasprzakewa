@@ -14,10 +14,6 @@ I am a second-year student of Algorithmic Computer Science at the Wrocław Unive
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasprzakewa&layout=compact&show_icons=true&theme=radical)](https://github.com/kasprzakewa/github-readme-stats)
 
 <br>
-<h3 align="left">Contact me:</h3>
-
-- 📥 ewa.j.kasprzak@gmail.com
-<br>
 <h3 align="left">Current development:</h3>
 
 - 🔭 I’m currently working on [Igniter](https://github.com/PWrInSpace/Igniter) as a member of [PWrInSpace](https://pwrinspace.pwr.edu.pl/)
