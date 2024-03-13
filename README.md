@@ -16,7 +16,6 @@ I am a second-year student of Algorithmic Computer Science at the Wrocław Unive
 
 - 🔭 I’m currently working on [Igniter](https://github.com/PWrInSpace/Igniter) as a member of [PWrInSpace](https://pwrinspace.pwr.edu.pl/)
 - I’m attending courses on algorithms, computer safety, extended algebra, and web technologies this semester.
-- I'm planning to start the first project using AI.
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
