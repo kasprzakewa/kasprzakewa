@@ -5,8 +5,6 @@
 I am a second-year student of Algorithmic Computer Science at the Wrocław University of Science and Technology. My interests span across various fields, including astronomy, programming, and mathematics - particularly the kind that blows my mind.
 <br>
 <br>
-<br>
-<br>
 > "_I believe we did._"
 >
 >         ~ J. Robert Oppenheimer
