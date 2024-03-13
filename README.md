@@ -1,16 +1,27 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMixvHxCD9MAsqYqcb72QM0Iv695y70C9K1Bk-S5GE8V8Uk7Nykb0J-h2ClDXsjHoNbjOCNqXMUKkW33jYCGwbQQaPQKRSPPBEtEioJyj6lRxwMwOHZ7ayg4Y2ASQHVrCJ-bbVGiSluDXVsxYleyXcBjV2bkN72Mml4VuCt7YiD1nhk_Hr8kySUuhGsRJc/s900-rw/studio-ghibli-backgrounds-10.png)]
-<h1 align="center">Hi 👋, I'm Ewa Kasprzak</h1>
-<img align=”right” alt=”Coding” width=”400” src=”https://media2.giphy.com/media/KXECBV0GkdCX6/giphy.gif?cid=6c09b952uhj8ccqfdr2509milt9ircnq8vs3ol278vkbt00x&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g”>
-- 🔭 I’m currently working on [Igniter](https://github.com/PWrInSpace/Igniter)
+# Hi, I'm Ewa 🌿
 
-- 🌱 I’m currently learning **algorithms and data structure, computer safety, esp-idf, web technologies.**
 
-- 📫 How to reach me **ewa.j.kasprzak@gmail.com**
+I am a second-year student of Algorithmic Computer Science <img align="right" src="https://github.com/kasprzakewa/kasprzakewa/assets/153777003/314661f3-d8a8-4e6d-a907-90cbca699631" />
+at the Wrocław University of Science and Technology. My interests span across various fields, including astronomy, programming, and mathematics - particularly the kind that challenges our perception of reality. I have a keen interest in logic mysteries, and I find the intricacies of probability fascinating. Above all, I am intrigued by artificial intelligence and its potential to revolutionize our world. I’m always on the lookout for new knowledge and experiences in these areas.
+<br>
+<br>
+<br>
+<br>
+<br>
+> "_I believe we did._"
+>
+>         ~ J. Robert Oppenheimer
+<br>
+<br>
+<br>
+<h3 align="left">Current development:</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ewa-kasprzak-4987b8227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ewa-kasprzak-4987b8227/" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently working on [Igniter](https://github.com/PWrInSpace/Igniter) as a member of [PWrInSpace](https://pwrinspace.pwr.edu.pl/)
+- I’m attending courses on algorithms, computer safety, extended algebra, and web technologies this semester.
+- I'm planning to start the first project using AI.
+<br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
