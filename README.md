@@ -1,9 +1,8 @@
 # Hi, I'm Ewa 🌿
 
-<img align="right" width="400" src="https://github.com/kasprzakewa/kasprzakewa/assets/153777003/314661f3-d8a8-4e6d-a907-90cbca699631" />
+<img align="right" width="350" src="https://github.com/kasprzakewa/kasprzakewa/assets/153777003/314661f3-d8a8-4e6d-a907-90cbca699631" />
 
 I am a second-year student of Algorithmic Computer Science at the Wrocław University of Science and Technology. My interests span across various fields, including astronomy, programming, and mathematics - particularly the kind that challenges our perception of reality. I have a keen interest in logic mysteries, and I find the intricacies of probability fascinating. Above all, I am intrigued by artificial intelligence and its potential to revolutionize our world. I’m always on the lookout for new knowledge and experiences in these areas.
-<br>
 <br>
 <br>
 <br>
@@ -13,13 +12,11 @@ I am a second-year student of Algorithmic Computer Science at the Wrocław Unive
 >         ~ J. Robert Oppenheimer
 <br>
 <br>
-<br>
 <h3 align="left">Current development:</h3>
 
 - 🔭 I’m currently working on [Igniter](https://github.com/PWrInSpace/Igniter) as a member of [PWrInSpace](https://pwrinspace.pwr.edu.pl/)
 - I’m attending courses on algorithms, computer safety, extended algebra, and web technologies this semester.
 - I'm planning to start the first project using AI.
-<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
