@@ -10,11 +10,7 @@ I am a second-year student of Algorithmic Computer Science at the Wrocław Unive
     <p><i>"I believe we did."</i></p>
     <footer>~ J. Robert Oppenheimer</footer>
 </blockquote>
-
-<br>
-<br>
 <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasprzakewa&layout=compact&show_icons=true&theme=tokyonight" alt="Top Languages">
-<br>
 <br>
 <h3 align="left">Fun Fact ☂️</h3>
 <p align="left" width="350">
