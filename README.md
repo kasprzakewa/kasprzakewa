@@ -22,7 +22,12 @@ I am a second-year student of Algorithmic Computer Science at the Wrocław Unive
 
 - ewa.j.kasprzak@gmail.com
 
- <br>    
+ <br>
+<h3 align="left">Check this out 🔎</h3>
+
+[Algorithm for multiplication 5x5 matrixes by Manuel Kauers and Jakob Moosbauer](https://arxiv.org/abs/2210.04045)
+
+<br>
 <h3 align="left">Current development 🔭</h3>
 
 - I’m currently working on [Igniter](https://github.com/PWrInSpace/Igniter) as a member of [PWrInSpace](https://pwrinspace.pwr.edu.pl/)
