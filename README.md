@@ -25,7 +25,7 @@ I am a second-year student of Algorithmic Computer Science at the Wrocław Unive
  <br>
 <h3 align="left">Check this out 🔎</h3>
 
-[Algorithm for multiplication 5x5 matrixes by Manuel Kauers and Jakob Moosbauer](https://arxiv.org/abs/2210.04045)
+- [Algorithm for multiplication 5x5 matrixes by Manuel Kauers and Jakob Moosbauer](https://arxiv.org/abs/2210.04045)
 
 <br>
 <h3 align="left">Current development 🔭</h3>
