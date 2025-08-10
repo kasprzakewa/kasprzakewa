@@ -1,6 +1,6 @@
 # Hi, I'm Ewa 🌿
 
-<img align="right" width="350" src="https://github.com/kasprzakewa/kasprzakewa/assets/153777003/314661f3-d8a8-4e6d-a907-90cbca699631" />
+<img align="right" width="350" src="https://github.com/user-attachments/assets/2685a554-9961-4885-9360-33db92a82528" />
 
 I’m a third-year Algorithmic Computer Science student at Wrocław University of Science and Technology. My interests include computer vision, autonomous systems and astronomy. Outside my studies, I’m an active member of the [PWrInSpace](https://pwrinspace.pwr.edu.pl/) scientific association and an intern at [CancerCenterAI](https://cancercenter.ai/).
 
