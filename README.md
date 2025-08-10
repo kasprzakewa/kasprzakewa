@@ -2,37 +2,33 @@
 
 <img align="right" width="350" src="https://github.com/kasprzakewa/kasprzakewa/assets/153777003/314661f3-d8a8-4e6d-a907-90cbca699631" />
 
-I’m a third-year student of Algorithmic Computer Science at Wrocław University of Science and Technology. My interests include software engineering, artificial intelligence, cybersecurity, and astronomy. In addition to my studies at the university, I’m an active member of the PWr in Space scientific association, where I’m developing an application for ground-to-rocket communication.
+I’m a third-year Algorithmic Computer Science student at Wrocław University of Science and Technology. My interests include computer vision, autonomous systems and astronomy. Outside my studies, I’m an active member of the [PWrInSpace](https://pwrinspace.pwr.edu.pl/) scientific association and an intern at [CancerCenterAI](https://cancercenter.ai/).
 
 <br clear="right"/>
 
-<h3 align="left">Fun Fact ☂️</h3>
+## Fun Fact ☂️
 
 <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasprzakewa&layout=compact&show_icons=true&theme=tokyonight" alt="Top Languages">
 
-<p align="left">
- After 12 years of music school, I've decided to switch things up. 
- Now instead of playing on the decks of concert halls, I'm debugging syntax errors!
-</p>
+- After 12 years in music school, I traded concert halls for debugging syntax errors.  
+- For the past year, I’ve been working at [Oncosort](https://oncosort.pl/), a startup that uses NLP to automate the qualification process for oncology drug programs.
 
 <br>
-<h3 align="left">Contact me 🪁</h3>
+<br>
 
-- ewa.j.kasprzak@gmail.com
-
- <br>
-<h3 align="left">Check this out 🔎</h3>
-
-- [Ignis mission](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ignis)
+## Contact me 🪁
+- **Email:** ewa.j.kasprzak@gmail.com
 
 <br>
-<h3 align="left">Current development 🔭</h3>
 
-- I’m currently working on application for ground-to-rocket communication as a member of [PWrInSpace](https://pwrinspace.pwr.edu.pl/)
-- I’m attending courses on embedded systems, artificial intelligence, theoretical foundations of computer science, functional programming and www technologies this semester.
-- I’m preparing my engineering thesis, which focuses on reviewing algorithms that simulate the three-body problem to determine optimal spacecraft trajectories.
+## Current Development 🔭
+- Developing a ground-to-rocket communication system, as well as pitot and recovery electronics submodules with the [PWrInSpace](https://pwrinspace.pwr.edu.pl/) team.  
+- Interning at [CancerCenterAI](https://cancercenter.ai/), contributing to digital cancer diagnosis projects.  
+- Writing my engineering thesis on algorithms for simulating the three-body problem to determine optimal spacecraft trajectories.
+
 <br>
-<h3 align="left">Languages and tools</h3>
+ 
+## Languages and tools
 
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
