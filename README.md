@@ -1,4 +1,4 @@
-# Hi, I'm Ewa 🌿
+# Hi, I'm Ewa 🌲
 
 <img align="right" width="350" src="https://github.com/user-attachments/assets/4fbe1d1c-e982-47ee-96de-debfac030dd7" />
 
